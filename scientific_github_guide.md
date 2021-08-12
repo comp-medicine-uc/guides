@@ -1,6 +1,6 @@
 # 👨‍🔬👩‍🔬 GitHub guide for scientific projects
 
-_Written by @pzuritas for @comp-medicine-uc. Inspired by [Ryan Abernathey's guide](https://rabernat.medium.com/scientific-collaboration-and-project-management-in-github-d74f2255ae5f) and various GitHub tutorials, most notably its own [guides](https://guides.github.com/)._
+_Written by [@pzuritas](https://github.com/pzuritas) for [@comp-medicine-uc](https://github.com/comp-medicine-uc). Inspired by [Ryan Abernathey's guide](https://rabernat.medium.com/scientific-collaboration-and-project-management-in-github-d74f2255ae5f) and various GitHub tutorials, most notably its own [guides](https://guides.github.com/)._
 
 This guide assumes you have basic familiarity with Git and GitHub.
 
@@ -14,7 +14,7 @@ GitHub provides more structure and features than Git alone to work. In particula
 
 ### 🥼 Organization and teams
 
-GitHub organizations provide a way for groups to organize their. The @comp-medicine-uc organization houses our work and repositories. Teams are subgroups of organizations which can be assigned to a specific project or repo, to stratify access.
+GitHub organizations provide a way for groups to organize their. The [@comp-medicine-uc](https://github.com/comp-medicine-uc) organization houses our work and repositories. Teams are subgroups of organizations which can be assigned to a specific project or repo, to stratify access.
 
 ### 🔬 Projects
 
@@ -28,11 +28,11 @@ GitHub _issues_ are ways to keep track of tasks to be done in general, whether t
 
 The following lists a typical workflow for a scientific project with GitHub.
 
-1. @dehurtado creates a project in the @comp-medicine-uc organization for your research project.
+1. [@dehurtado](https://github.com/dehurtado) creates a project in the [@comp-medicine-uc](https://github.com/comp-medicine-uc) organization for your research project.
 
 The project overview will be visible in [this webpage](https://github.com/orgs/comp-medicine-uc/projects). This page is good for a general overview, actual task management should be done through issues. It will update automatically.
 
-2. @dehurtado creates a repo in the organization for your future paper.
+2. [@dehurtado](https://github.com/dehurtado) creates a repo in the organization for your future paper.
 
 3. Create an issue with a task and assing it to someone (yourself, probably).
 

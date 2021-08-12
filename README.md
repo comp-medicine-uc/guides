@@ -5,4 +5,4 @@ _[@pzuritas](https://github.com/pzuritas)_
 ## Files
 
 - `basic_github_guide.md`: Introductory guide for new users
-- `scientific_github_guide.md`: @comp-medicine-uc workflow guide
+- `scientific_github_guide.md`: [@comp-medicine-uc](https://github.com/comp-medicine-uc) workflow guide

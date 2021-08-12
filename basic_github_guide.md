@@ -1,6 +1,6 @@
 # 💻 Basic introduction to Git and GitHub
 
-_Written by @pzuritas. Inspired by various GitHub tutorials, most notably its own [guides](https://guides.github.com/)._
+_Written by [@pzuritas](https://github.com/pzuritas). Inspired by various GitHub tutorials, most notably its own [guides](https://guides.github.com/)._
 
 This is a (very) basic introduction to Git and GitHub, made as a prologue for the second guide which outlines how to use GitHub for scientific project management.
 
