@@ -1,6 +1,6 @@
 # Guides for Git and GitHub
 
-@pzuritas
+_[@pzuritas](https://github.com/pzuritas)_
 
 ## Files
 
