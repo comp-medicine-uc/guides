@@ -20,7 +20,7 @@ You're going to need...
 
 2. ... to either **know how to use your command line** to navigate directories (`cd`, `ls` and the like) or to **learn how to use a GitHub GUI** (available, for example, in browser as the GitHub webpage, as a [desktop client](https://desktop.github.com/) or as a native integration in text editors like [VSCode](https://code.visualstudio.com/).) Windows users preferring to use the command line will have to install Git Bash when prompted during Git installation or use the Windows PowerShell, as the native Windows terminal is not a Unix shell.
 
-3. You probably want a browser plugin like the [Chrome MathJax plugin](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) to render LaTeX equations like this one $\Delta u = 0$ everywhere on GitHub (GitHub's Markdown doesn't render equations everywhere natively).
+3. You probably want a browser plugin like the [Chrome MathJax plugin](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) to render LaTeX equations like this one $\Delta u = 0$ everywhere on GitHub (GitHub Flavored Markdown doesn't render equations everywhere natively).
 
 ## ❗ Essential Git and GitHub concepts
 
@@ -90,5 +90,5 @@ That's it! You now know the very basics of Git and GitHub. These services have a
 ## 📚 Additional references
 
 - [GitHub Guides](https://guides.github.com/): general GitHub and Markdown guides, very useful, but be sure to note that these are intended for collaboration on software.
-- [Git and GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY): great tutorial that shows GitHub's usefulness beyond software engineering.
+- [Git and GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY): great tutorial that shows GitHub's usefulness beyond software development.
 - [Make a README](https://www.makeareadme.com/): nice resource to make a good README file.
