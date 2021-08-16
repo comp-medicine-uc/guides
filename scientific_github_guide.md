@@ -42,7 +42,7 @@ Go to the repo's GitHub webpage, select the "Issues" tab and select the "New Iss
 
 Work on the assigned task as normal, using typical GitHub commands, commiting and pushing your work regularly. You can comment observations and other things in the issue webpage that was created, to document the work being done on said issue.
 
-Issue comments are very useful. For example, you can @ tag another GitHub user for help (i.e. "This looks like something you did sometime ago [@pzuritas](https://github.com/pzuritas)) and they will be notified.
+Issue comments are very useful. For example, you can @ tag another GitHub user for help (i.e. "This looks like something you did sometime ago [@pzuritas](https://github.com/pzuritas)") and they will be notified.
 
 ### 5. When a task is completed, close the issue
 
@@ -65,7 +65,7 @@ With this workflow, the repo stands as a nice snapshot of work done until now, w
 - Always write `README` files, remember they guide users that didn't work on the project.
 - General good practices for scientific computing can be seen [here](https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/).
 
-> Personal comment: I like to start my commit messages with emoji when I can as an added tag. [Here's](https://gitmoji.dev/) a guide to doing so usefully.
+> Personal comment: I like to start my commit messages with emoji when I can as an added tag (known as _Gitmoji_). [Here's](https://gitmoji.dev/) a guide to doing so usefully.
 
 ## 📝 Collaborating with GitHub
 
